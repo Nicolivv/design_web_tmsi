@@ -1,0 +1,16 @@
+h1{
+    color: darkblue;
+    font-size: 50px;
+    text-align: center;
+}
+div#imagem{
+    text-align: center;
+}
+body{
+    background-color: rgb(192, 190, 190);
+    background-image: url(imagens/);
+}
+p{
+    color:black;
+    font-weight: bold;
+}
